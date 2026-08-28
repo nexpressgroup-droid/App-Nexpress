@@ -1,29 +1,18 @@
 {
   "expo": {
-    "name": "nep-acuse-digital",
-    "slug": "snack-85b39861-dda5-4ecf-a6da-8bcf2857fc2a",
+    "name": "Nep-Acuse",
+    "slug": "Nep-Acuse",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
-    "newArchEnabled": true,
     "splash": {
-      "image": "./assets/splash-icon.png",
+      "image": "./assets/splash.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
-    "ios": {
-      "supportsTablet": true
-    },
     "android": {
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
-      },
-      "edgeToEdgeEnabled": true
-    },
-    "web": {
-      "favicon": "./assets/favicon.png"
+      "package": "com.nexpressgroup.nepacuse"
     }
   }
 }
